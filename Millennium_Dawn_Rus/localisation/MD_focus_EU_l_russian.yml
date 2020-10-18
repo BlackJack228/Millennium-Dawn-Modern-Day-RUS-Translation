@@ -294,11 +294,11 @@
  EU_tutorial.111.d:0 "The base factor for the AI to chose EU focuses are 20, so AI will do this from time to time.\n\nFactors that influence the base factor are the following:\n\n- The historical date of the focuses.\n- The AI member state has 5% influence or more on any other member state.\n- The Euroscepticism level of the AI member state; the more Euroscepticism, the more likley to avoid further EU focuses.\n- The national bias againt certain focuses; this corresponds to the special Euroscepticism malus the country gets from that focus."
  EU_tutorial.111.a:0 "Следующая страница"
  
- EU_tutorial.112.t:0 "Chapter 11.2 - The EU voting strategy AI"
+ EU_tutorial.112.t:0 "Глава 11.2 - Стратегия голосования ЕС ИИ"
  EU_tutorial.112.d:0 "At the moment there is no overall EU influence strategy AI. So the AI can't change the chance to get a proposal through the voting or even to get the voting decision available. To deal with that the AI has a special decision to get 3% influence on all member states, if the AI has completed a voting focus."
  EU_tutorial.112.a:0 "Следующая страница"
  
- EU_tutorial.113.t:0 "Chapter 11.3 - The EU propaganda AI"
+ EU_tutorial.113.t:0 "Глава 11.3 - Пропаганда ЕС ИИ"
  EU_tutorial.113.d:0 "The Pro-European government with the following ruling parties will try to keep Euroscepticism low:\n[EUU.liberalism_L], [EUU.Neutral_Libertarian_L], [EUU.socialism_L], [EUU.neutral_Social_L], [EUU.Neutral_green_L], [EUU.Communist-State_L], [EUU.anarchist_communism_L], [EUU.Neutral_Communism_L]\nThe following government are also Pro-European as long as Euroscepticism is below 60% [EUU.conservatism_L], [EUU.Conservative_L], [EUU.Neutral_conservatism_L]; they will try to keep the Euroscepticism low in these circumstances. But they flip over in the eurosceptic camp and try to rise Euroscepticism if the level rises above 60%, because they fear the pressure from the nationlists.\n The last one will always try to spread Euroscepticism if they get into power:\n[EUU.Nat_Populism_L], [EUU.Nat_Fascism_L], [EUU.Nat_Autocracy_L], [EUU.Monarchist_L]"
  EU_tutorial.113.a:0 "Следующая глава"
 
